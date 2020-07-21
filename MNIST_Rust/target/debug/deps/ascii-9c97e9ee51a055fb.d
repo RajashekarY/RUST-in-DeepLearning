@@ -1,0 +1,11 @@
+/home/scientist/Documents/Projects/Rusting/RUST-in-DeepLearning/MNIST_Rust/target/debug/deps/ascii-9c97e9ee51a055fb.rmeta: /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/lib.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_char.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_str.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_string.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/free_functions.rs
+
+/home/scientist/Documents/Projects/Rusting/RUST-in-DeepLearning/MNIST_Rust/target/debug/deps/libascii-9c97e9ee51a055fb.rlib: /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/lib.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_char.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_str.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_string.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/free_functions.rs
+
+/home/scientist/Documents/Projects/Rusting/RUST-in-DeepLearning/MNIST_Rust/target/debug/deps/ascii-9c97e9ee51a055fb.d: /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/lib.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_char.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_str.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_string.rs /home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/free_functions.rs
+
+/home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/lib.rs:
+/home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_char.rs:
+/home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_str.rs:
+/home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/ascii_string.rs:
+/home/scientist/.cargo/registry/src/github.com-1ecc6299db9ec823/ascii-1.0.0/src/free_functions.rs:
